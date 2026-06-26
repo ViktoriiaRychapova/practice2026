@@ -1,0 +1,12 @@
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\task05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\task05.AssemblyInfoInputs.cache
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\task05.AssemblyInfo.cs
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\task05.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\task05.sourcelink.json
+D:\Новая папка (2)\GitHub\practice2026\task05\bin\Debug\net10.0\task05.deps.json
+D:\Новая папка (2)\GitHub\practice2026\task05\bin\Debug\net10.0\task05.dll
+D:\Новая папка (2)\GitHub\practice2026\task05\bin\Debug\net10.0\task05.pdb
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\task05.dll
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\refint\task05.dll
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\task05.pdb
+D:\Новая папка (2)\GitHub\practice2026\task05\obj\Debug\net10.0\ref\task05.dll
