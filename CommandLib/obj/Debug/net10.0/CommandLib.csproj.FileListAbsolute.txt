@@ -1,0 +1,12 @@
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\bin\Debug\net10.0\CommandLib.deps.json
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\bin\Debug\net10.0\CommandLib.dll
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\bin\Debug\net10.0\CommandLib.pdb
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\CommandLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\CommandLib.AssemblyInfoInputs.cache
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\CommandLib.AssemblyInfo.cs
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\CommandLib.csproj.CoreCompileInputs.cache
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\CommandLib.sourcelink.json
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\CommandLib.dll
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\refint\CommandLib.dll
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\CommandLib.pdb
+D:\Новая папка (2)\GitHub\practice2026\CommandLib\obj\Debug\net10.0\ref\CommandLib.dll
